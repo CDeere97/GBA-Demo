@@ -1,0 +1,5 @@
+﻿  main.cpp
+  arm-none-eabi-g++ -MMD -MP -MF /c/GBA/GBALowLevel/GBALowLevel/build/main.d -gdwarf-2 -Wall -mcpu=arm7tdmi -mtune=arm7tdmi -mthumb -mthumb-interwork -iquote /c/GBA/GBALowLevel/GBALowLevel/include -I/c/devkitPro/libgba/include -I/c/GBA/GBALowLevel/GBALowLevel/build -fno-rtti -fno-exceptions -c /c/GBA/GBALowLevel/GBALowLevel/source/main.cpp -o main.o 
+  linking cartridge
+  built ... GBALowLevel.gba
+  ROM fixed!

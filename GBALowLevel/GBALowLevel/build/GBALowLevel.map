@@ -1,0 +1,547 @@
+Archive member included to satisfy reference by file (symbol)
+
+c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/5.3.0/../../../../arm-none-eabi/lib/thumb\libg.a(lib_a-init.o)
+                              c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/5.3.0/../../../../arm-none-eabi/lib/thumb/gba_crt0.o (__libc_init_array)
+c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/5.3.0/../../../../arm-none-eabi/lib/thumb\libg.a(lib_a-memcpy.o)
+                              main.o (memcpy)
+c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/5.3.0/../../../../arm-none-eabi/lib/thumb\libsysbase.a(malloc_vars.o)
+                              c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/5.3.0/../../../../arm-none-eabi/lib/thumb/gba_crt0.o (fake_heap_end)
+
+Discarded input sections
+
+ .text          0x00000000        0x0 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/5.3.0/../../../../arm-none-eabi/lib/thumb/gba_crt0.o
+ .data          0x00000000        0x0 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/5.3.0/../../../../arm-none-eabi/lib/thumb/gba_crt0.o
+ .bss           0x00000000        0x0 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/5.3.0/../../../../arm-none-eabi/lib/thumb/gba_crt0.o
+ .text          0x00000000        0x0 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/5.3.0/thumb/crti.o
+ .data          0x00000000        0x0 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/5.3.0/thumb/crti.o
+ .bss           0x00000000        0x0 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/5.3.0/thumb/crti.o
+ .data          0x00000000        0x4 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/5.3.0/thumb/crtbegin.o
+ .bss           0x00000000        0x4 main.o
+ .text          0x00000000        0x0 Charizard_Sprite.o
+ .data          0x00000000        0x0 Charizard_Sprite.o
+ .bss           0x00000000        0x0 Charizard_Sprite.o
+ .text          0x00000000        0x0 Charizard_Sprite4bpp.o
+ .data          0x00000000        0x0 Charizard_Sprite4bpp.o
+ .bss           0x00000000        0x0 Charizard_Sprite4bpp.o
+ .rodata        0x00000000      0x820 Charizard_Sprite4bpp.o
+ .text          0x00000000        0x0 SoraIdle.o
+ .data          0x00000000        0x0 SoraIdle.o
+ .bss           0x00000000        0x0 SoraIdle.o
+ .rodata        0x00000000     0x2500 SoraIdle.o
+ .text          0x00000000        0x0 Sprite.o
+ .data          0x00000000        0x0 Sprite.o
+ .bss           0x00000000        0x0 Sprite.o
+ .text          0x00000000        0x0 bg_field.o
+ .data          0x00000000        0x0 bg_field.o
+ .bss           0x00000000        0x0 bg_field.o
+ .text          0x00000000        0x0 bg_field16.o
+ .data          0x00000000        0x0 bg_field16.o
+ .bss           0x00000000        0x0 bg_field16.o
+ .rodata        0x00000000     0x9620 bg_field16.o
+ .text          0x00000000        0x0 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/5.3.0/../../../../arm-none-eabi/lib/thumb\libg.a(lib_a-init.o)
+ .data          0x00000000        0x0 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/5.3.0/../../../../arm-none-eabi/lib/thumb\libg.a(lib_a-init.o)
+ .bss           0x00000000        0x0 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/5.3.0/../../../../arm-none-eabi/lib/thumb\libg.a(lib_a-init.o)
+ .text          0x00000000        0x0 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/5.3.0/../../../../arm-none-eabi/lib/thumb\libg.a(lib_a-memcpy.o)
+ .data          0x00000000        0x0 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/5.3.0/../../../../arm-none-eabi/lib/thumb\libg.a(lib_a-memcpy.o)
+ .bss           0x00000000        0x0 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/5.3.0/../../../../arm-none-eabi/lib/thumb\libg.a(lib_a-memcpy.o)
+ .text          0x00000000        0x0 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/5.3.0/../../../../arm-none-eabi/lib/thumb\libsysbase.a(malloc_vars.o)
+ .data          0x00000000        0x0 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/5.3.0/../../../../arm-none-eabi/lib/thumb\libsysbase.a(malloc_vars.o)
+ .text          0x00000000        0x0 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/5.3.0/thumb/crtend.o
+ .data          0x00000000        0x0 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/5.3.0/thumb/crtend.o
+ .bss           0x00000000        0x0 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/5.3.0/thumb/crtend.o
+ .text          0x00000000        0x0 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/5.3.0/thumb/crtn.o
+ .data          0x00000000        0x0 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/5.3.0/thumb/crtn.o
+ .bss           0x00000000        0x0 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/5.3.0/thumb/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+rom              0x08000000         0x02000000
+iwram            0x03000000         0x00008000
+ewram            0x02000000         0x00040000
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+                0x08000000                __text_start = ORIGIN (rom)
+                0x02040000                __eheap_end = (ORIGIN (ewram) + 0x40000)
+                0x03000000                __iwram_start = ORIGIN (iwram)
+                0x03008000                __iwram_top = (ORIGIN (iwram) + 0x8000)
+                0x03007fa0                __sp_irq = (__iwram_top - 0x60)
+                0x03007f00                __sp_usr = (__sp_irq - 0xa0)
+                0x03007ff8                __irq_flags = 0x3007ff8
+                0x08000000                . = __text_start
+
+.init           0x08000000      0x21c
+ *(.init)
+ .init          0x08000000      0x210 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/5.3.0/../../../../arm-none-eabi/lib/thumb/gba_crt0.o
+                0x08000000                _start
+                0x080000c4                __boot_method
+                0x080000c5                __slave_number
+                0x080000e0                start_vector
+ .init          0x08000210        0x4 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/5.3.0/thumb/crti.o
+                0x08000210                _init
+ .init          0x08000214        0x8 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/5.3.0/thumb/crtn.o
+                0x0800021c                . = ALIGN (0x4)
+
+.plt            0x0800021c        0x0
+ *(.plt)
+                0x0800021c                . = ALIGN (0x4)
+
+.text           0x0800021c      0x5ec
+ *(EXCLUDE_FILE(*.iwram*) .text)
+ .text          0x0800021c       0xd4 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/5.3.0/thumb/crtbegin.o
+ .text          0x080002f0      0x440 main.o
+                0x080002f0                sqran(long)
+                0x08000318                qran()
+                0x0800034c                qran_range(long, long)
+                0x08000378                sign(long)
+                0x080003a0                abs(long)
+                0x080003c4                setColor(unsigned char, unsigned char, unsigned char)
+                0x08000430                drawRect(unsigned long, unsigned long, unsigned long, unsigned long, unsigned short)
+                0x0800049c                drawLine(long, long, long, long, unsigned short)
+                0x080005e8                vsync()
+                0x0800062c                main
+ *(.text .stub .text.* .gnu.linkonce.t.*)
+ .text.__libc_init_array
+                0x08000730       0x58 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/5.3.0/../../../../arm-none-eabi/lib/thumb\libg.a(lib_a-init.o)
+                0x08000730                __libc_init_array
+ .text.memcpy   0x08000788       0x80 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/5.3.0/../../../../arm-none-eabi/lib/thumb\libg.a(lib_a-memcpy.o)
+                0x08000788                memcpy
+ *(.text.*personality*)
+ *(.gnu.warning)
+ *(.glue_7t)
+ .glue_7t       0x08000808        0x0 linker stubs
+ *(.glue_7)
+ .glue_7        0x08000808        0x0 linker stubs
+ *(.vfp11_veneer)
+ .vfp11_veneer  0x08000808        0x0 linker stubs
+                0x08000808                . = ALIGN (0x4)
+                0x08000808                __text_end = .
+
+.v4_bx          0x08000808        0x0
+ .v4_bx         0x08000808        0x0 linker stubs
+
+.iplt           0x08000808        0x0
+ .iplt          0x08000808        0x0 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/5.3.0/../../../../arm-none-eabi/lib/thumb/gba_crt0.o
+
+.fini           0x08000808        0xc
+ *(.fini)
+ .fini          0x08000808        0x4 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/5.3.0/thumb/crti.o
+                0x08000808                _fini
+ .fini          0x0800080c        0x8 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/5.3.0/thumb/crtn.o
+                0x08000814                . = ALIGN (0x4)
+
+.rodata         0x08000814     0xc500
+ *(.rodata)
+ .rodata        0x08000814     0x1200 Charizard_Sprite.o
+                0x08000814                Charizard_SpriteTiles
+                0x08001814                Charizard_SpritePal
+ .rodata        0x08001a14     0x1b00 Sprite.o
+                0x08001a14                SpriteTiles
+                0x08003314                SpritePal
+ .rodata        0x08003514     0x9800 bg_field.o
+                0x08003514                bg_fieldTiles
+                0x0800cb14                bg_fieldPal
+ *all.rodata*(*)
+ *(.roda)
+ *(.rodata.*)
+ *(.gnu.linkonce.r*)
+                0x0800cd14                . = ALIGN (0x4)
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+                0x0800cd14                __exidx_start = .
+
+.ARM.exidx
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+                0x0800cd14                __exidx_end = .
+
+.ctors          0x0800cd14        0x0
+ *crtbegin.o(.ctors)
+ *(EXCLUDE_FILE(*crtend.o) .ctors)
+ *(SORT(.ctors.*))
+ *(.ctors)
+                0x0800cd14                . = ALIGN (0x4)
+
+.dtors          0x0800cd14        0x0
+ *crtbegin.o(.dtors)
+ *(EXCLUDE_FILE(*crtend.o) .dtors)
+ *(SORT(.dtors.*))
+ *(.dtors)
+                0x0800cd14                . = ALIGN (0x4)
+
+.eh_frame       0x0800cd14        0x4
+ *(.eh_frame)
+ .eh_frame      0x0800cd14        0x0 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/5.3.0/thumb/crtbegin.o
+ .eh_frame      0x0800cd14        0x4 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/5.3.0/thumb/crtend.o
+                0x0800cd18                . = ALIGN (0x4)
+
+.rel.dyn        0x0800cd18        0x0
+ .rel.iplt      0x0800cd18        0x0 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/5.3.0/../../../../arm-none-eabi/lib/thumb/gba_crt0.o
+
+.gcc_except_table
+                0x0800cd18        0x0
+ *(.gcc_except_table)
+                0x0800cd18                . = ALIGN (0x4)
+                0x0800cd18                __iwram_lma = .
+
+.iwram          0x03000000        0x0 load address 0x0800cd18
+                0x03000000                __iwram_start__ = ABSOLUTE (.)
+ *(.iwram)
+ *iwram.*(.text)
+                0x03000000                . = ALIGN (0x4)
+                0x03000000                __iwram_end__ = ABSOLUTE (.)
+                0x0800cd18                __data_lma = (__iwram_lma + SIZEOF (.iwram))
+
+.bss            0x03000000       0x24
+                0x03000000                __bss_start = ABSOLUTE (.)
+                0x03000000                __bss_start__ = ABSOLUTE (.)
+ *(.dynbss)
+ *(.gnu.linkonce.b*)
+ *(.bss*)
+ .bss           0x03000000       0x1c c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/5.3.0/thumb/crtbegin.o
+ .bss           0x0300001c        0x8 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/5.3.0/../../../../arm-none-eabi/lib/thumb\libsysbase.a(malloc_vars.o)
+                0x0300001c                fake_heap_start
+                0x03000020                fake_heap_end
+ *(COMMON)
+                0x03000024                . = ALIGN (0x4)
+                0x03000024                __bss_end__ = ABSOLUTE (.)
+
+.data           0x03000024        0x8 load address 0x0800cd18
+                0x03000024                __data_start__ = ABSOLUTE (.)
+ *(.data)
+ .data          0x03000024        0x8 main.o
+                0x03000024                __qran_seed
+                0x03000028                vid_page
+ *(.data.*)
+ *(.gnu.linkonce.d*)
+                0x0300002c                . = ALIGN (0x4)
+                0x0800cd20                __preinit_lma = (__data_lma + SIZEOF (.data))
+
+.igot.plt       0x0300002c        0x0 load address 0x0800cd20
+ .igot.plt      0x0300002c        0x0 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/5.3.0/../../../../arm-none-eabi/lib/thumb/gba_crt0.o
+
+.tm_clone_table
+                0x0300002c        0x0 load address 0x0800cd20
+ .tm_clone_table
+                0x0300002c        0x0 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/5.3.0/thumb/crtbegin.o
+ .tm_clone_table
+                0x0300002c        0x0 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/5.3.0/thumb/crtend.o
+
+.preinit_array  0x0300002c        0x0 load address 0x0800cd20
+                0x0300002c                __preinit_array_start = ABSOLUTE (.)
+ *(.preinit_array)
+                0x0300002c                __preinit_array_end = ABSOLUTE (.)
+                0x0800cd20                __init_lma = (__preinit_lma + SIZEOF (.preinit_array))
+
+.init_array     0x0300002c        0x4 load address 0x0800cd20
+                0x0300002c                __init_array_start = ABSOLUTE (.)
+ *(SORT(.init_array.*))
+ *(.init_array)
+ .init_array    0x0300002c        0x4 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/5.3.0/thumb/crtbegin.o
+                0x03000030                __init_array_end = ABSOLUTE (.)
+                0x0800cd24                __fini_lma = (__init_lma + SIZEOF (.init_array))
+
+.fini_array     0x03000030        0x4 load address 0x0800cd24
+                0x03000030                __fini_array_start = ABSOLUTE (.)
+ *(SORT(.fini_array.*))
+ *(.fini_array)
+ .fini_array    0x03000030        0x4 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/5.3.0/thumb/crtbegin.o
+                0x03000034                __fini_array_end = ABSOLUTE (.)
+                0x0800cd28                __jcr_lma = (__fini_lma + SIZEOF (.fini_array))
+
+.jcr            0x03000034        0x4 load address 0x0800cd28
+ *(.jcr)
+ .jcr           0x03000034        0x0 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/5.3.0/thumb/crtbegin.o
+ .jcr           0x03000034        0x4 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/5.3.0/thumb/crtend.o
+                0x03000038                __data_end__ = ABSOLUTE (.)
+                0x0800cd2c                __iwram_overlay_lma = (__jcr_lma + SIZEOF (.jcr))
+                0x03000038                __iwram_overlay_start = .
+
+.iwram0         0x03000038        0x0 load address 0x0800cd2c
+ *(.iwram0)
+                0x03000038                . = ALIGN (0x4)
+                0x0800cd2c                PROVIDE (__load_start_iwram0, LOADADDR (.iwram0))
+                0x0800cd2c                PROVIDE (__load_stop_iwram0, (LOADADDR (.iwram0) + SIZEOF (.iwram0)))
+
+.iwram1         0x03000038        0x0
+ *(.iwram1)
+                0x03000038                . = ALIGN (0x4)
+                [!provide]                PROVIDE (__load_start_iwram1, LOADADDR (.iwram1))
+                [!provide]                PROVIDE (__load_stop_iwram1, (LOADADDR (.iwram1) + SIZEOF (.iwram1)))
+
+.iwram2         0x03000038        0x0
+ *(.iwram2)
+                0x03000038                . = ALIGN (0x4)
+                [!provide]                PROVIDE (__load_start_iwram2, LOADADDR (.iwram2))
+                [!provide]                PROVIDE (__load_stop_iwram2, (LOADADDR (.iwram2) + SIZEOF (.iwram2)))
+
+.iwram3         0x03000038        0x0
+ *(.iwram3)
+                0x03000038                . = ALIGN (0x4)
+                [!provide]                PROVIDE (__load_start_iwram3, LOADADDR (.iwram3))
+                [!provide]                PROVIDE (__load_stop_iwram3, (LOADADDR (.iwram3) + SIZEOF (.iwram3)))
+
+.iwram4         0x03000038        0x0
+ *(.iwram4)
+                0x03000038                . = ALIGN (0x4)
+                [!provide]                PROVIDE (__load_start_iwram4, LOADADDR (.iwram4))
+                [!provide]                PROVIDE (__load_stop_iwram4, (LOADADDR (.iwram4) + SIZEOF (.iwram4)))
+
+.iwram5         0x03000038        0x0
+ *(.iwram5)
+                0x03000038                . = ALIGN (0x4)
+                [!provide]                PROVIDE (__load_start_iwram5, LOADADDR (.iwram5))
+                [!provide]                PROVIDE (__load_stop_iwram5, (LOADADDR (.iwram5) + SIZEOF (.iwram5)))
+
+.iwram6         0x03000038        0x0
+ *(.iwram6)
+                0x03000038                . = ALIGN (0x4)
+                [!provide]                PROVIDE (__load_start_iwram6, LOADADDR (.iwram6))
+                [!provide]                PROVIDE (__load_stop_iwram6, (LOADADDR (.iwram6) + SIZEOF (.iwram6)))
+
+.iwram7         0x03000038        0x0
+ *(.iwram7)
+                0x03000038                . = ALIGN (0x4)
+                [!provide]                PROVIDE (__load_start_iwram7, LOADADDR (.iwram7))
+                [!provide]                PROVIDE (__load_stop_iwram7, (LOADADDR (.iwram7) + SIZEOF (.iwram7)))
+
+.iwram8         0x03000038        0x0
+ *(.iwram8)
+                0x03000038                . = ALIGN (0x4)
+                [!provide]                PROVIDE (__load_start_iwram8, LOADADDR (.iwram8))
+                [!provide]                PROVIDE (__load_stop_iwram8, (LOADADDR (.iwram8) + SIZEOF (.iwram8)))
+
+.iwram9         0x03000038        0x0
+ *(.iwram9)
+                0x03000038                . = ALIGN (0x4)
+                [!provide]                PROVIDE (__load_start_iwram9, LOADADDR (.iwram9))
+                [!provide]                PROVIDE (__load_stop_iwram9, (LOADADDR (.iwram9) + SIZEOF (.iwram9)))
+                0x03000038                __iwram_overlay_end = .
+                0x0800cd2c                __ewram_lma = (__iwram_overlay_lma + (__iwram_overlay_end - __iwram_overlay_start))
+                0x03000038                __iheap_start = .
+                0x02000000                __ewram_start = ORIGIN (ewram)
+
+.ewram          0x02000000        0x0 load address 0x0800cd2c
+ *(.ewram)
+                0x02000000                . = ALIGN (0x4)
+                0x02000000                __ewram_end = ABSOLUTE (.)
+                0x0800cd2c                __pad_lma = (__ewram_lma + SIZEOF (.ewram))
+
+.sbss           0x02000000        0x0
+                0x02000000                __sbss_start__ = ABSOLUTE (.)
+ *(.sbss)
+                0x02000000                . = ALIGN (0x4)
+                0x02000000                __sbss_end__ = ABSOLUTE (.)
+                0x02000000                __end__ = ABSOLUTE (.)
+                0x02000000                __eheap_start = ABSOLUTE (.)
+
+.pad            0x02000000        0x8 load address 0x0800cd2c
+                0x02000000        0x4 LONG 0x52416b64
+                0x02000004        0x4 LONG 0x4d
+                0x02000008                . = ALIGN (0x4)
+                0x0800cd34                __rom_end__ = (__pad_lma + SIZEOF (.pad))
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x00000000       0x22
+ *(.comment)
+ .comment       0x00000000       0x22 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/5.3.0/thumb/crtbegin.o
+                                 0x23 (size before relaxing)
+ .comment       0x00000022       0x23 main.o
+ .comment       0x00000022       0x23 Charizard_Sprite.o
+ .comment       0x00000022       0x23 Charizard_Sprite4bpp.o
+ .comment       0x00000022       0x23 SoraIdle.o
+ .comment       0x00000022       0x23 Sprite.o
+ .comment       0x00000022       0x23 bg_field.o
+ .comment       0x00000022       0x23 bg_field16.o
+ .comment       0x00000022       0x23 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/5.3.0/../../../../arm-none-eabi/lib/thumb\libg.a(lib_a-init.o)
+ .comment       0x00000022       0x23 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/5.3.0/../../../../arm-none-eabi/lib/thumb\libg.a(lib_a-memcpy.o)
+ .comment       0x00000022       0x23 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/5.3.0/../../../../arm-none-eabi/lib/thumb\libsysbase.a(malloc_vars.o)
+ .comment       0x00000022       0x23 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/5.3.0/thumb/crtend.o
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000       0xb0
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x20 main.o
+ .debug_aranges
+                0x00000020       0x18 Charizard_Sprite.o
+ .debug_aranges
+                0x00000038       0x18 Charizard_Sprite4bpp.o
+ .debug_aranges
+                0x00000050       0x18 SoraIdle.o
+ .debug_aranges
+                0x00000068       0x18 Sprite.o
+ .debug_aranges
+                0x00000080       0x18 bg_field.o
+ .debug_aranges
+                0x00000098       0x18 bg_field16.o
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x00000000      0x8d1
+ *(.debug_info)
+ .debug_info    0x00000000      0x602 main.o
+ .debug_info    0x00000602       0x78 Charizard_Sprite.o
+ .debug_info    0x0000067a       0x77 Charizard_Sprite4bpp.o
+ .debug_info    0x000006f1       0x78 SoraIdle.o
+ .debug_info    0x00000769       0x78 Sprite.o
+ .debug_info    0x000007e1       0x78 bg_field.o
+ .debug_info    0x00000859       0x78 bg_field16.o
+
+.debug_abbrev   0x00000000      0x400
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000      0x1e3 main.o
+ .debug_abbrev  0x000001e3       0x5d Charizard_Sprite.o
+ .debug_abbrev  0x00000240       0x4c Charizard_Sprite4bpp.o
+ .debug_abbrev  0x0000028c       0x5d SoraIdle.o
+ .debug_abbrev  0x000002e9       0x5d Sprite.o
+ .debug_abbrev  0x00000346       0x5d bg_field.o
+ .debug_abbrev  0x000003a3       0x5d bg_field16.o
+
+.debug_line     0x00000000      0x44e
+ *(.debug_line)
+ .debug_line    0x00000000      0x254 main.o
+ .debug_line    0x00000254       0x59 Charizard_Sprite.o
+ .debug_line    0x000002ad       0x5d Charizard_Sprite4bpp.o
+ .debug_line    0x0000030a       0x51 SoraIdle.o
+ .debug_line    0x0000035b       0x4f Sprite.o
+ .debug_line    0x000003aa       0x51 bg_field.o
+ .debug_line    0x000003fb       0x53 bg_field16.o
+
+.debug_frame    0x00000000      0x148
+ *(.debug_frame)
+ .debug_frame   0x00000000      0x148 main.o
+
+.debug_str      0x00000000      0x504
+ *(.debug_str)
+ .debug_str     0x00000000      0x30f main.o
+                                0x38d (size before relaxing)
+ .debug_str     0x0000030f       0x8a Charizard_Sprite.o
+                                 0xd0 (size before relaxing)
+ .debug_str     0x00000399       0x6f Charizard_Sprite4bpp.o
+                                 0xdc (size before relaxing)
+ .debug_str     0x00000408       0x4b SoraIdle.o
+                                 0xb8 (size before relaxing)
+ .debug_str     0x00000453       0x2f Sprite.o
+                                 0xb2 (size before relaxing)
+ .debug_str     0x00000482       0x31 bg_field.o
+                                 0xb8 (size before relaxing)
+ .debug_str     0x000004b3       0x51 bg_field16.o
+                                 0xbe (size before relaxing)
+
+.debug_loc      0x00000000      0x21a
+ *(.debug_loc)
+ .debug_loc     0x00000000      0x21a main.o
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.stack          0x00080000        0x0
+                0x00080000                _stack = .
+ *(.stack)
+
+.note.gnu.arm.ident
+ *(.note.gnu.arm.ident)
+
+.ARM.attributes
+                0x00000000       0x2b
+ *(.ARM.attributes)
+ .ARM.attributes
+                0x00000000       0x16 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/5.3.0/../../../../arm-none-eabi/lib/thumb/gba_crt0.o
+ .ARM.attributes
+                0x00000016       0x16 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/5.3.0/thumb/crti.o
+ .ARM.attributes
+                0x0000002c       0x30 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/5.3.0/thumb/crtbegin.o
+ .ARM.attributes
+                0x0000005c       0x30 main.o
+ .ARM.attributes
+                0x0000008c       0x30 Charizard_Sprite.o
+ .ARM.attributes
+                0x000000bc       0x30 Charizard_Sprite4bpp.o
+ .ARM.attributes
+                0x000000ec       0x30 SoraIdle.o
+ .ARM.attributes
+                0x0000011c       0x30 Sprite.o
+ .ARM.attributes
+                0x0000014c       0x30 bg_field.o
+ .ARM.attributes
+                0x0000017c       0x30 bg_field16.o
+ .ARM.attributes
+                0x000001ac       0x30 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/5.3.0/../../../../arm-none-eabi/lib/thumb\libg.a(lib_a-init.o)
+ .ARM.attributes
+                0x000001dc       0x30 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/5.3.0/../../../../arm-none-eabi/lib/thumb\libg.a(lib_a-memcpy.o)
+ .ARM.attributes
+                0x0000020c       0x30 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/5.3.0/../../../../arm-none-eabi/lib/thumb\libsysbase.a(malloc_vars.o)
+ .ARM.attributes
+                0x0000023c       0x30 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/5.3.0/thumb/crtend.o
+ .ARM.attributes
+                0x0000026c       0x16 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/5.3.0/thumb/crtn.o
+
+/DISCARD/
+ *(.note.GNU-stack)
+LOAD c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/5.3.0/../../../../arm-none-eabi/lib/thumb/gba_crt0.o
+LOAD c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/5.3.0/thumb/crti.o
+LOAD c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/5.3.0/thumb/crtbegin.o
+LOAD main.o
+LOAD Charizard_Sprite.o
+LOAD Charizard_Sprite4bpp.o
+LOAD SoraIdle.o
+LOAD Sprite.o
+LOAD bg_field.o
+LOAD bg_field16.o
+LOAD c:/devkitPro/libgba/lib\libmm.a
+LOAD c:/devkitPro/libgba/lib\libgba.a
+LOAD c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/5.3.0/../../../../arm-none-eabi/lib/thumb\libstdc++.a
+LOAD c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/5.3.0/../../../../arm-none-eabi/lib/thumb\libm.a
+START GROUP
+LOAD c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/5.3.0/thumb\libgcc.a
+LOAD c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/5.3.0/../../../../arm-none-eabi/lib/thumb\libg.a
+LOAD c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/5.3.0/../../../../arm-none-eabi/lib/thumb\libc.a
+LOAD c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/5.3.0/../../../../arm-none-eabi/lib/thumb\libsysbase.a
+END GROUP
+LOAD c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/5.3.0/thumb/crtend.o
+LOAD c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/5.3.0/thumb/crtn.o
+OUTPUT(c:/GBA/GBALowLevel/GBALowLevel/GBALowLevel.elf elf32-littlearm)
